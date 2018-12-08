@@ -112,3 +112,7 @@ entity
 ```
 
 *TODO: split up into multiple documents*
+*TODO: Add actuall examples after library is implemented*
+*TODO: Add enumeration of pre-made Keys categories, and explain more about what `Key` is*
+*TODO: Explain what Hooks/EventSystem are.*
+*TODO: Actual documentation of library's code*
