@@ -43,6 +43,8 @@ In some cases Transaction could rollback another Transaction - and while in most
 
 If you think about UX User A shouldn't die as that makes feel him bad, but if he doesn't die everyone would be happy.
 
+* TODO: Explain how to manage this with async-await states *
+
 # Behind the scenes
 
 1. We create structures that represent basic things such as Health, Identity, Inventory/Container, etc
@@ -112,7 +114,11 @@ entity
 ```
 
 *TODO: split up into multiple documents*
+
 *TODO: Add actuall examples after library is implemented*
+
 *TODO: Add enumeration of pre-made Keys categories, and explain more about what `Key` is*
+
 *TODO: Explain what Hooks/EventSystem are.*
+
 *TODO: Actual documentation of library's code*
